@@ -1,0 +1,46 @@
+body {
+	background-color: black;
+    background:url('goop.gif') repeat-y;
+    background-size: cover;
+    font-family: courier new;
+}
+
+.title{
+i failed here
+}
+
+.intro{
+	display: flex;
+}
+
+.leviintrobox{
+	background-color: black;
+	width: 600px;
+	border: crimson, solid, 3px;
+	border-radius: 10px;
+	padding: auto;
+	margin-left: 10%;
+	margin-top: 30px;
+	text-align: center;
+}
+
+.leviboxtext{
+	color: crimson;
+	font-size: 20px;
+	text-align: center;
+}
+
+.leviintropic{
+	margin-left: 400px;
+}
+
+.leviotherbox{
+	background-color: black;
+	border: crimson, solid, 2px;
+	border-radius: 10px;
+	margin-top: 30px;
+	padding: 10px 20px 10px 20px;
+	margin-left: 15%;
+	margin-right: 15%;
+	text-align: center;
+}
